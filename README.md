@@ -4,7 +4,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/RashadRussell02/Parent-Teacher-FS
+   git clone https://github.com/N8hanielc/Parent-Teacher-FS
 
 2. # Navigate to the Project Directory
    ```bash
